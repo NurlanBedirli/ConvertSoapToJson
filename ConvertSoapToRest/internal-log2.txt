@@ -1,0 +1,13 @@
+﻿2020-09-25 09:11:02.8205||init main |url: |action: 
+2020-09-25 09:11:21.1144|1|Request to Json |url: https://localhost/Service/add|action: Add
+2020-09-25 09:11:21.1253|1|Request to Soap |url: https://localhost/Service/add|action: Add
+2020-09-25 09:11:22.9507|1|Response from Soap |url: https://localhost/Service/add|action: Add
+2020-09-25 09:11:46.4820|2|Request to Json |url: https://localhost/Service/divide|action: Divide
+2020-09-25 09:11:46.4847|2|Request to Soap |url: https://localhost/Service/divide|action: Divide
+2020-09-25 09:11:47.1506|2|Response from Soap |url: https://localhost/Service/divide|action: Divide
+2020-09-25 09:11:55.7101|3|Request to Json |url: https://localhost/Service/multiply|action: Multiply
+2020-09-25 09:11:55.7101|3|Request to Soap |url: https://localhost/Service/multiply|action: Multiply
+2020-09-25 09:11:56.3527|3|Response from Soap |url: https://localhost/Service/multiply|action: Multiply
+2020-09-25 09:12:03.7327|4|Request to Json |url: https://localhost/Service/subtract|action: Subtract
+2020-09-25 09:12:03.7348|4|Request to Soap |url: https://localhost/Service/subtract|action: Subtract
+2020-09-25 09:12:04.4979|4|Response from Soap |url: https://localhost/Service/subtract|action: Subtract
