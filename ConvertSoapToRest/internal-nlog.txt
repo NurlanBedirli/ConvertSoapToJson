@@ -1,0 +1,5 @@
+2020-09-25 09:11:02.4405 Info Message Template Auto Format enabled
+2020-09-25 09:11:02.4838 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-25 09:11:02.5996 Info Adding target FileTarget(Name=allfile)
+2020-09-25 09:11:02.6189 Info Adding target FileTarget(Name=ownFile-web)
+2020-09-25 09:11:02.7210 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=39, FilePath=C:\Users\Nurlan\source\repos\Task\ConvertSoapToRest\bin\Debug\netcoreapp3.1\Nlog.config
